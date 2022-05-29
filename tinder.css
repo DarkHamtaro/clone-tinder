@@ -64,13 +64,13 @@
     background: rgb(241, 242, 244)
 }
 #buttons {
-    position: fixed; bottom: 80px; right: 600px;
-    height: 100px; width: 150px;
+    position: fixed; bottom: 30px; right: 740px;
+    height: 200px; width: 300px;
 }
 #card-name {
     position: absolute; left: 700px; top: 570px; font-size: 50px; color: whitesmoke;
 }
 #info-icon {
-    position: absolute; left: 900px; top: 570px;
-    height: 90px; width: 90px;
+    position: absolute; right: 854px; top: 622px;
+    height: 30px; width: 30px;
 }
