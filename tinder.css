@@ -54,3 +54,7 @@
     background: rgb(253,47,112);
     background: linear-gradient(90deg, rgba(253,47,112,1) 0%, rgba(255,71,83,1) 32%, rgba(253,94,62,1) 100%);
 }
+#main {
+    position: absolute; top: 0px; right: 20px;
+    height: 200px; width: 100px;
+}
