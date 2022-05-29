@@ -1,0 +1,56 @@
+.pics {
+    width: 80px; height: 90px;
+}
+#woman1 {
+    position: absolute; top: 157px; left: 15px; color: whitesmoke; font-weight: bold;
+}
+#woman2 {
+    position: absolute; top: 157px; left: 98px; color: whitesmoke; font-weight: bold;
+}
+#woman3 {
+    position: absolute; top: 157px; left: 183px; color: whitesmoke; font-weight: bold;
+}
+#woman4 {
+    position: absolute; top: 260px; left: 15px; color: whitesmoke; font-weight: bold;
+}
+#woman5 {
+    position: absolute; top: 260px; left: 98px; color: whitesmoke; font-weight: bold;
+}
+#woman6 {
+    position: absolute; top: 260px; left: 183px; color: whitesmoke; font-weight: bold;
+}
+#woman7 {
+    position: absolute; top: 363px; left: 15px; color: whitesmoke; font-weight: bold;
+}
+#woman8 {
+    position: absolute; top: 363px; left: 98px; color: whitesmoke; font-weight: bold;
+}
+#woman9 {
+    position: absolute; top: 363px; left: 183px; color: whitesmoke; font-weight: bold;
+}
+#woman10 {
+    position: absolute; top: 464px; left: 15px; color: whitesmoke; font-weight: bold;
+}
+#woman11 {
+    position: absolute; top: 464px; left: 98px; color: whitesmoke; font-weight: bold;
+}
+#msg {
+    font-size: 20px;
+    position: absolute; top: 50px; left: 130px;
+}
+#match {
+    font-size: 20px;
+    position: absolute; top: 50px; left: 28px;
+}
+#profile{
+    position: absolute; top: 13px; left: 10px; width: 30px; height: 30px; 
+}
+#name{
+    position: absolute; top: 8px; left: 45px; color: whitesmoke; font-size: 14px;
+}
+.rectangle {
+    position: fixed; top: 0px; left: 0px;
+    height: 60px; width: 270px;
+    background: rgb(253,47,112);
+    background: linear-gradient(90deg, rgba(253,47,112,1) 0%, rgba(255,71,83,1) 32%, rgba(253,94,62,1) 100%);
+}
