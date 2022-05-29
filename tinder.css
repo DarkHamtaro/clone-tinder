@@ -42,10 +42,10 @@
     font-size: 20px;
     position: absolute; top: 50px; left: 28px;
 }
-#profile{
+#profile {
     position: absolute; top: 13px; left: 10px; width: 30px; height: 30px; 
 }
-#name{
+#profile-name {
     position: absolute; top: 8px; left: 45px; color: whitesmoke; font-size: 14px;
 }
 .rectangle {
@@ -64,6 +64,13 @@
     background: rgb(241, 242, 244)
 }
 #buttons {
-    position: fixed; bottom: 100px; right: 600px;
+    position: fixed; bottom: 80px; right: 600px;
     height: 100px; width: 150px;
+}
+#card-name {
+    position: absolute; left: 700px; top: 570px; font-size: 50px; color: whitesmoke;
+}
+#info-icon {
+    position: absolute; left: 900px; top: 570px;
+    height: 90px; width: 90px;
 }
