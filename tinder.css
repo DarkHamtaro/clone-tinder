@@ -1,5 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .pics {
     width: 80px; height: 90px;
+    cursor: pointer;
 }
 #woman1 {
     position: absolute; top: 157px; left: 15px; color: whitesmoke; font-weight: bold;
@@ -37,16 +41,19 @@
 #msg {
     font-size: 20px;
     position: absolute; top: 50px; left: 130px;
+    cursor: pointer;
 }
 #match {
     font-size: 20px;
     position: absolute; top: 50px; left: 28px;
+    cursor: pointer;
 }
 #profile {
     position: absolute; top: 13px; left: 10px; width: 30px; height: 30px; 
 }
 #profile-name {
     position: absolute; top: 8px; left: 45px; color: whitesmoke; font-size: 14px;
+    cursor: pointer;
 }
 .rectangle {
     position: fixed; top: 0px; left: 0px;
@@ -66,11 +73,13 @@
 #buttons {
     position: fixed; bottom: 30px; right: 740px;
     height: 200px; width: 300px;
+    cursor: pointer;
 }
 #card-name {
     position: absolute; left: 700px; top: 570px; font-size: 50px; color: whitesmoke;
 }
 #info-icon {
-    position: absolute; right: 854px; top: 622px;
+    position: absolute; right: 830px; top: 622px;
     height: 30px; width: 30px;
+    cursor: pointer;
 }
